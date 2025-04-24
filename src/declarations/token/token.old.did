@@ -1,0 +1,10 @@
+service : {
+  balanceOf: (principal) -> (nat) query;
+  checkBalance: () -> (float64) query;
+  compound: () -> () oneway;
+  getSymbol: () -> (text) query;
+  payOut: () -> (text);
+  topUp: (float64) -> () oneway;
+  transfer: (principal, nat) -> (text);
+  withdraw: (float64) -> () oneway;
+}
