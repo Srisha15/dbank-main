@@ -2,7 +2,6 @@
 
 # 🏦 dBank – Decentralized Bank on Internet Computer
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Built with Motoko](https://img.shields.io/badge/Built%20with-Motoko-blueviolet)](https://internetcomputer.org/)
 [![Hosted on ICP](https://img.shields.io/badge/Hosted%20on-Internet%20Computer-orange)](https://internetcomputer.org/)
 [![Made by Srisha](https://img.shields.io/badge/Made%20by-Srisha15-green)](https://github.com/Srisha15)
