@@ -1,13 +1,24 @@
 
-# 💰 dBank – A Decentralized Bank  
 
-dBank is a decentralized finance (DeFi) banking application built on the **Internet Computer Protocol (ICP)**. This project leverages **Motoko, HTML, CSS, and Node.js** to create a secure and transparent banking system where users can deposit, withdraw, and manage their assets in a decentralized manner.  
+# 🏦 dBank – Decentralized Bank on Internet Computer
 
-## 🚀 Features  
-- 🔐 **Decentralized Banking** – No central authority; transactions are managed on the blockchain.  
-- 💳 **Deposit & Withdraw Funds** – Users can deposit and withdraw funds securely.  
-- 📈 **Live Account Balance** – Real-time updates on your balance.  
-- 🌐 **Internet Computer Deployment** – Fully deployed on the ICP blockchain for enhanced security and reliability.  
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Built with Motoko](https://img.shields.io/badge/Built%20with-Motoko-blueviolet)](https://internetcomputer.org/)
+[![Hosted on ICP](https://img.shields.io/badge/Hosted%20on-Internet%20Computer-orange)](https://internetcomputer.org/)
+[![Made by Srisha](https://img.shields.io/badge/Made%20by-Srisha15-green)](https://github.com/Srisha15)
+
+**dBank** is a decentralized banking application built using Motoko for smart contracts and JavaScript for the frontend, deployed on the Internet Computer Protocol (ICP). This project allows users to deposit and withdraw ICP tokens, demonstrating a real-world DeFi use case.
+
+---
+
+## ✨ Features
+
+- 💰 Deposit ICP tokens through a Web UI
+- 💸 Withdraw tokens from your on-chain balance
+- 🔐 Secure smart contract logic in Motoko
+- 🌐 Simple frontend in HTML, CSS, and JavaScript
+- ☁️ Deployable on Internet Computer via DFX
+
 
 ## 🛠️ Technologies Used  
 - **Motoko** – Smart contract development for ICP.  
